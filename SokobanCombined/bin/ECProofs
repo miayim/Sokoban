@@ -1,0 +1,60 @@
+The sequence above can be shown to contain the value 0
+infinitely many times. Use this fact, and the definition of the sequence, 
+to show that there is no maximum value for the sequence.
+
+If there are infinitely many zeros the sequence must also have an infinitely high maximum value.
+Since the next value in the sequence is derived from the most recent occurrence of the previous value.
+If there are infinitely many zeroes eventually the most recent index of the previous zero will have to be 
+infinitely large. However the following term will then zero as the infinitely large term will not have appeared
+before and so the next term after zero will be infinitely large + 1. This trend will continue and perpetuate
+itself causing the sequence to increasing indefinitely over time and therefore there is no maximum value.
+
+The sequence will increase over time and if the sequence goes on forever there is no one maximum value.
+
+
+
+
+Suppose n is the number of elements in the sequence.
+
+Suppose the sequence did have a maximum value, lets call the value m. If m were the maximum this means
+there would be no new numbers after m. However, if m were truly the maximum that means m would not have appeared
+in the sequence so far because it represents the most recent index of the previous term. Therefore, the term following m
+would be 0 as it has not yet appeared in the sequence. Now lets think about the next term, following zero. 
+
+If a maximum value is followed by a zero and there are infinitely many zeroes there must be infinitely many
+maximum values therefore there is no one maximum value for the whole sequence.
+
+zero follows every new value that appears in the sequence. if we have max m that means the last n - m 
+indices of the sequence hold the complete history from that point on. the distinct values preceding a zero 
+will trend towards in infinity over time because if there are infinitely many zeroes there are infinitely
+many distinct values 
+
+
+
+
+
+
+
+
+
+For a given value 𝑁, give a formula for the earliest index where 𝑁 could possibly appear. 
+Give another formula for the largest possible index before you must have seen a value of at least 𝑁.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
